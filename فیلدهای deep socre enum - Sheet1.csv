@@ -1,0 +1,173 @@
+hypercholesterolaemia,No,0
+hypercholesterolaemia,Yes,1
+hypercholesterolaemia,Missed,?
+education,unread,0
+education,sub-diploma,1
+education,diploma,2
+education,upon-diploma,3
+education,Bachelor,4
+education,MA,5
+education,P.H.D,6
+countryCode,Iran,1
+countryCode,other country,2
+marriageStatus,single,0
+marriageStatus,married,1
+marriageStatus,divorced,2
+marriageStatus,widow,3
+gender,male,0
+gender,female,1
+anginaCcs,Miseed,0
+anginaCcs,CCS0,?
+anginaCcs,CCS1,1
+anginaCcs,CCS2,2
+anginaCcs,CCS3,3
+anginaCcs,CCS4,4
+dyspnoea,Missed,0
+dyspnoea,NYHA I,1
+dyspnoea,NYHA II,2
+dyspnoea,NYHA III,3
+dyspnoea,NYHA IV,4
+dyspnoea,NAYHA I,?
+dyspnoea,NAYHA II,?
+dyspnoea,NAYHA III,?
+dyspnoea,NAYHA IV,?
+numbarOfPreviousMyocardial,Missed,?
+numbarOfPreviousMyocardial,None,0
+numbarOfPreviousMyocardial,One,1
+numbarOfPreviousMyocardial,Two or more,2
+numbarOfPreviousMyocardial,Not Known,3
+mostRecentMyocardialInfarction,Missed,?
+mostRecentMyocardialInfarction,No MI,?
+mostRecentMyocardialInfarction,MI 1-7 days before operation,?
+mostRecentMyocardialInfarction,MI<6 hours before operation,?
+mostRecentMyocardialInfarction,MI 6-24 hours before operation,?
+mostRecentMyocardialInfarction,MI 8-21 days before operation,?
+mostRecentMyocardialInfarction,MI 22-90 days before operation,?
+mostRecentMyocardialInfarction,MI < 30 days before operation,?
+mostRecentMyocardialInfarction,90 > MI > 30 days befor operation,?
+mostRecentMyocardialInfarction,MI>90 days before operation,?
+congestiveHeartFailure,Missed,?
+congestiveHeartFailure,No,0
+congestiveHeartFailure,Yes,1
+previousPci,No PCI,0
+previousPci,Not Known,1
+previousPci,PCI<24 hours,2
+previousPci,PCI> 24 hours,3
+addiction,Missed,?
+addiction,Not Known,?
+addiction,No,0
+addiction,Yes,1
+diabetesTreatment,Missed,0
+diabetesTreatment,None,1
+diabetesTreatment,Diet,2
+diabetesTreatment,Oral alone,3
+diabetesTreatment,Insulin,4
+diabetesTreatment,Insulin (with or without oral),?
+hypertension,No hypertension,?
+hypertension,Treated or BP >140/90 on >1 occasions prior to admission,?
+hypertension,Not treated,?
+hypertension,Not Known,?
+choromicLungDisease,Missed,0
+choromicLungDisease,No,1
+choromicLungDisease,COPD,2
+choromicLungDisease,Asthema,3
+choromicLungDisease,COPD / Emphysema,?
+numberOfDiseasedCoronaryVessels,no vessel,?
+numberOfDiseasedCoronaryVessels,one vessel,?
+numberOfDiseasedCoronaryVessels,two vessel,?
+numberOfDiseasedCoronaryVessels,three vessel,?
+numberOfDiseasedCoronaryVessels,not investigation,?
+numberOfDiseasedCoronaryVessels,Missed,?
+numberOfDiseasedCoronaryVessels,No vessel with>50% diameter stenosis,?
+numberOfDiseasedCoronaryVessels,One vessel with>50% diameter stenosis,?
+numberOfDiseasedCoronaryVessels,Two vessel with>50% diameter stenosis,?
+numberOfDiseasedCoronaryVessels,Three vessel with>50% diameter stenosis,?
+numberOfDiseasedCoronaryVessels,Not Investigation,?
+leftMainStemDisease,Missed,?
+leftMainStemDisease,No LMS,0
+leftMainStemDisease,LMS,1
+leftMainStemDisease,Not Investigation,2
+ejectionFractionCategory,good,1
+ejectionFractionCategory,fair,2
+ejectionFractionCategory,poor,3
+ejectionFractionCategory,Not measured,4
+meanPawpLa,?,?
+ivNitratesHeparinOfAnyKind,Missed,0
+ivNitratesHeparinOfAnyKind,No,1
+ivNitratesHeparinOfAnyKind,Yes,2
+ivIntropes,Missed,0
+ivIntropes,No,1
+ivIntropes,Yes,2
+ventilated,Missed,0
+ventilated,No,1
+ventilated,Yes,2
+cardiogenicShok,Missed,0
+cardiogenicShok,No,1
+cardiogenicShok,Yes,2
+labp,No,0
+labp,Yes,1
+exerciseToleranceTestETT,(+Ve),1
+exerciseToleranceTestETT,(-Ve),2
+exerciseToleranceTestETT,Not Done,3
+exerciseToleranceTestETT,Missed,4
+operativeUrgency,Elective,1
+operativeUrgency,Urgent,2
+operativeUrgency,Emergency,3
+operativeUrgency,salvage,4
+intraArorticPallonPump,No,0
+intraArorticPallonPump,Yes,1
+Type of operation,on pump,0
+Type of operation,off pump,1
+otherCardiac,Missed,?
+otherCardiac,No,0
+otherCardiac,Yes,1
+otherNonCardiac,Missed,?
+otherNonCardiac,No,0
+otherNonCardiac,Yes,1
+poorMobility,No,0
+poorMobility,Yes,1
+criticalPreoperativeState,No,0
+criticalPreoperativeState,Yes,1
+surgeryOnThoracicAorta,No,0
+surgeryOnThoracicAorta,Yes,1
+pulmonaryHypertension,?,?
+pulmonaryHypertension,?,?
+pulmonaryHypertension,?,?
+activeEndocarditis,No,0
+activeEndocarditis,Yes,1
+stenosis_aorticValve,Missed,?
+stenosis_aorticValve,No,0
+stenosis_aorticValve,Yes,1
+stenosis_miteralValve,Missed,?
+stenosis_miteralValve,No,0
+stenosis_miteralValve,Yes,1
+stenosis_pulmonaryValve,Missed,?
+stenosis_pulmonaryValve,No,0
+stenosis_pulmonaryValve,Yes,1
+stenosis_tricuspidValve,Missed,?
+stenosis_tricuspidValve,No,0
+stenosis_tricuspidValve,Yes,1
+sufficiency_aorticValve,Missed,?
+sufficiency_aorticValve,None,0
+sufficiency_aorticValve,trival,2
+sufficiency_aorticValve,mild,3
+sufficiency_aorticValve,Moderate,4
+sufficiency_aorticValve,Severe,5
+sufficiency_miteralValve,Missed,?
+sufficiency_miteralValve,None,0
+sufficiency_miteralValve,trival,2
+sufficiency_miteralValve,mild,3
+sufficiency_miteralValve,Moderate,4
+sufficiency_miteralValve,Severe,5
+sufficiency_pulmonaryValve,Missed,?
+sufficiency_pulmonaryValve,None,0
+sufficiency_pulmonaryValve,trival,2
+sufficiency_pulmonaryValve,mild,3
+sufficiency_pulmonaryValve,Moderate,4
+sufficiency_pulmonaryValve,Severe,5
+sufficiency_tricuspidValve,Missed,?
+sufficiency_tricuspidValve,None,0
+sufficiency_tricuspidValve,trival,2
+sufficiency_tricuspidValve,mild,3
+sufficiency_tricuspidValve,Moderate,4
+sufficiency_tricuspidValve,Severe,5
